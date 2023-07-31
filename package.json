@@ -11,7 +11,7 @@
     "@emotion/react": "11",
     "@emotion/styled": "11",
     "@radix-ui/react-scroll-area": "1.0.3",
-    "framer-motion": "6",
+    "framer-motion": "10",
     "gray-matter": "4.0.3",
     "next": "12.3.3",
     "next-seo": "6.0.0",

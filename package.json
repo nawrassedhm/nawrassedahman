@@ -22,7 +22,7 @@
   "devDependencies": {
     "@ctrl/tinycolor": "3.6.0",
     "@types/gtag.js": "0.0.12",
-    "@types/node": "18.16.3",
+    "@types/node": "20.11.20",
     "@types/react": "17.0.38",
     "rehype-autolink-headings": "6.1.1",
     "rehype-slug": "5.0.1",

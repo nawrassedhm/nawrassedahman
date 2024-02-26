@@ -10,7 +10,7 @@
     "@chakra-ui/react": "1.8.9",
     "@emotion/react": "11",
     "@emotion/styled": "11",
-    "@radix-ui/react-scroll-area": "1.0.3",
+    "@radix-ui/react-scroll-area": "1.0.5",
     "framer-motion": "6",
     "gray-matter": "4.0.3",
     "next": "12.3.3",

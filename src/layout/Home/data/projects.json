@@ -3,7 +3,7 @@
     "pretext": "Website",
     "heading": "Color Flipper",
     "link": "https://github.com/nawrassedhm/Color-Flipper",
-    "description": "This Is A Project I Built In The Early Days Of The Pandemic, Color Flipper Is A Website That Generate Colors Everytime You Click On It Button."
+    "description": "This Is A Project I Built In The Early Days Of The Pandemic, Color Flipper Is A Website That Generate Colors Everytime You Click On It."
   },
   "bugBot": {
     "pretext": "Discord Bot",
@@ -21,7 +21,7 @@
     "pretext": "NPM Package",
     "heading": "Math.ts",
     "link": "https://github.com/nawrassedhm/Math.ts",
-    "description": "Basic Mathematics In Typescript's Type System, This Is A Real Proof Of Concept And These Types Should Never Be Used In Any Kind Of Production Environment!"
+    "description": "Basic Mathematics In Typescript's System, This Is A Real Proof Of Concept And These Types Should Never Be Used In Any Kind Of Production Environment!"
   },
   "guitarBoard": {
     "pretext": "Shell Extension",
@@ -33,6 +33,6 @@
     "pretext": "A Story",
     "heading": "Typewriter",
     "link": "https://github.com/nawrassedhm/Typewriter",
-    "description": "Our Story Is About A Town. A Small Town, And The People Who Lived In The Town. From A Far It Present Itself Like Any Other Town : Safe, Decent, Innocent. Get Closer Though And You Start Seeing The Shadows Underneath."
+    "description": "Our Story Is About A Town. A Small Town, And The People Who Lived In The Town. From A Far It Present Itself Like Any Other Town: Safe, Decent, Innocent. Get Closer Though And You Start Seeing The Shadows Underneath."
   }
 }

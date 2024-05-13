@@ -14,22 +14,22 @@ const config = {
     'SVG Icons',
   ],
   title: 'Nawrasse Dahman | Developer & Author',
-  titleAlt: 'Nawrasse Dahman | Developer',
+  titleAlt: 'Nawrasse Dahman | Developer & Author',
   description:
-    'A Full-Stack Web Developer And Designer With INTJ As His Personality Type',
-  url: 'https://nawrassedahman.tk',
-  siteUrl: 'https://nawrassedahman.tk/',
+    'A Full-Stack Web Developer And A Published Author.',
+  url: 'https://nawrassedahman.com',
+  siteUrl: 'https://nawrassedahman.com/',
   siteLanguage: 'en',
   logo: '/logo.png',
-  image: 'https://nawrassedahman.tk/open-graph.png',
+  image: 'https://nawrassedahman.com/open-graph.png',
   favicon: '/favicon.ico',
   shortName: 'NawrasseDhm',
-  author: ' Nawrasse Dahman',
+  author: 'Nawrasse Dahman',
   themeColor: '#000000',
   backgroundColor: '#ffffff',
-  twitter: '@nawrassedahman',
+  twitter: '@whoisnawrasse',
   twitterDesc:
-    'Nawrasse Dahman A Full-Stack Web Developer And Designer With INTJ As His Personality Type',
+    'A Full-Stack Web Developer And A Published Author.',
 }
 
 export default config

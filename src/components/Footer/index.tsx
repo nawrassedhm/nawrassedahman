@@ -18,26 +18,20 @@ export const Footer = () => (
     <Flex gap="12px" wrap="wrap" fontSize="sm">
       <Item
         aria-label="Send Email"
-        href="mailto:nawrassedhm@techie.com"
-        label="Email"
+        href="mailto:nawrassedhm@myself.com"
+        label="Email Me!"
       />
       /
       <Item
-        aria-label="Navigate To Wattpad Profile"
+        aria-label="Navigate To Amazon Profile"
         href="https://www.wattpad.com/nawrassedahman"
-        label="Wattpad"
+        label="Amazon"
       />
       /
       <Item
         aria-label="Navigate To Letterboxd Profile"
         href="https://www.letterboxd.com/nawrassedahman"
         label="Letterboxd"
-      />
-      /
-      <Item
-        aria-label="Navigate To Polywork Profile"
-        href="https://www.polywork.com/nawrassedahman"
-        label="Polywork"
       />
       /
       <Item

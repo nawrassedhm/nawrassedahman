@@ -41,9 +41,9 @@ export const Footer = () => (
       />
       /
       <Item
-        aria-label="Navigate To LinkedIn Profile"
-        href="https://www.linkedin.com/in/nawrassedahman/"
-        label="LinkedIn"
+        aria-label="Subscribe To My Newsletter"
+        href="https://nawrasseauthor.substack.com"
+        label="Newsletter"
       />
     </Flex>
   </Box>

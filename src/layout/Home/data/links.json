@@ -2,47 +2,23 @@
   "intro": {
     "link": "https://www.instagram.com/nawrassedahman",
     "prettylink": "instagram.com/nawrassedahman",
-    "label": "Say Hi On Instagram"
+    "label": "Say Hi On Instagram."
   },
 
-  "Khanacademy": {
-    "link": "https://www.khanacademy.org",
-    "prettylink": "www.khanacademy.org",
-    "label": "Thank You For Making Me Who Iam Today"
+  "Ruby Sparks": {
+    "link": "https://www.google.com/search?q=ruby+sparks&client=ms-android-honor&sca_esv=4771c1dce5b9df5f&sca_upv=1&sxsrf=ADLYWII7iHfOCIqWLNqlta-rQxz2NNdUDQ%3A1715610842249&ei=2iRCZvD0DqqqkdUP89yFgAk",
+    "prettylink": "google.com/rubysparks",
+    "label": "A Pretty Good Movie."
   },
-  "Discord": {
-    "link": "https://www.discord.com",
-    "prettylink": "discord.com",
-    "label": "Discord"
+  "Main Character": {
+    "link": "https://malcolminthemiddle.fandom.com/wiki/Cynthia_Sanders",
+    "prettylink": "fandom.com/wiki/Cynthia_Sanders",
+    "label": "She Was Nawrasse's Childhood Crush."
   },
-  "Prisma": {
+  "Strangers In The Night": {
     "link": "https://www.prisma.io",
     "prettylink": "prisma.io",
-    "label": "Prisma"
-  },
-  "Programming": {
-    "link": "https://en.wikipedia.org/wiki/Programming_language",
-    "prettylink": "wikipedia.org/wiki/Programming_language",
-    "label": "I Always Had An Appreciation And Admiration For Programming And Always Will"
-  },
-  "Next.Js": {
-    "link": "https://nextjs.org/",
-    "prettylink": "nextjs.org",
-    "label": "Number One Fan Of Next.Js"
-  },
-  "React": {
-    "link": "https://reactjs.org/",
-    "prettylink": "reactjs.org",
-    "label": "Number One Fan Of React"
-  },
-  "Cool": { 
-    "link": "https://youtu.be/dQw4w9WgXcQ",
-    "prettylink": "youtu.be/dQw4w9WgXcQ",
-    "label": "Very Cool Surprise Waiting To Be Click At"
-  },
-  "Freelancing": { 
-    "link": "https://www.linkedin.com/in/nawrassedahman",
-    "prettylink": "linkedin.com/in/nawrassedahman",
-    "label": "If You Are Interested If Hiring Me, Fell Free To DM Me"
+    "label": "Order It Now On Amazon."
   }
+  
 }

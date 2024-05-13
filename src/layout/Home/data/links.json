@@ -19,6 +19,11 @@
     "link": "https://www.prisma.io",
     "prettylink": "prisma.io",
     "label": "Order It Now On Amazon."
+  },
+  "Software Development": {
+    "link": "https://www.github.com/nawrassedhm",
+    "prettylink": "github.com/nawrassedhm",
+    "label": "Check Out My Github If You Are Interested."
   }
   
 }

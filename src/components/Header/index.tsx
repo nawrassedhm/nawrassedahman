@@ -23,8 +23,8 @@ export const Header = () => {
     >
       <Logo />
       <Flex gap="8" align="center">
-        <Link href='https://index.nawrassedahman.tk' isExternal>
-          Index
+        <Link href='https://www.google.com/' isExternal>
+          Buy Strangers In The Night
         </Link>
         <Divider orientation="vertical" h="5" borderColor="divider" />
         <IconButton

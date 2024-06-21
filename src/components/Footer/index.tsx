@@ -19,12 +19,12 @@ export const Footer = () => (
       <Item
         aria-label="Send Email"
         href="mailto:nawrassedhm@myself.com"
-        label="Email Me!"
+        label="Email Me"
       />
       /
       <Item
         aria-label="Navigate To Amazon Profile"
-        href="https://www.wattpad.com/nawrassedahman"
+        href="https://www.amazon.com/dp/B0D76GKVLN"
         label="Amazon"
       />
       /

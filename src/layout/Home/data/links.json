@@ -4,6 +4,7 @@
     "prettylink": "instagram.com/nawrassedahman",
     "label": "Say Hi On Instagram."
   },
+
   "Ruby Sparks": {
     "link": "https://www.google.com/search?q=ruby+sparks&client=ms-android-honor&sca_esv=4771c1dce5b9df5f&sca_upv=1&sxsrf=ADLYWII7iHfOCIqWLNqlta-rQxz2NNdUDQ%3A1715610842249&ei=2iRCZvD0DqqqkdUP89yFgAk",
     "prettylink": "google.com/rubysparks",
@@ -16,12 +17,13 @@
   },
   "Strangers In The Night": {
     "link": "https://www.prisma.io",
-    "prettylink": "prisma.com",
+    "prettylink": "prisma.io",
     "label": "Order It Now On Amazon."
   },
   "Software Development": {
     "link": "https://www.github.com/nawrassedhm",
     "prettylink": "github.com/nawrassedhm",
     "label": "Check Out My Github If You Are Interested."
-  } 
+  }
+  
 }

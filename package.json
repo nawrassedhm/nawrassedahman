@@ -14,7 +14,7 @@
     "react-live": "4.1.2"
   },
   "devDependencies": {
-    "@ctrl/tinycolor": "3.6.0",
+    "@ctrl/tinycolor": "4.1.0",
     "@types/gtag.js": "0.0.12",
     "@types/node": "20.11.20",
     "@types/react": "17.0.38",

@@ -1,6 +1,6 @@
 {
   "name": "nawrassedahman.com",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "next dev --turbo",
     "build": "next build",

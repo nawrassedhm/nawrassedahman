@@ -1,5 +1,5 @@
 {
-  "name": "nawrassedahman.com",
+  "name": 'nawrassedahman.com',
   "scripts": {
     "dev": "next dev --turbo",
     "build": "next build",
